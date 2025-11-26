@@ -151,7 +151,9 @@ Output Waveform
 
 
 TABULATION:
-![Uploading image.png…]()
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/d18a4e74-5a13-47a8-8f15-8e73f7f812dd" />
+
 
 
 
